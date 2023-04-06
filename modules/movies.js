@@ -58,7 +58,7 @@ const downvoteMovie = (id) => {
     // if (movie){
     if (movie !== undefined) {
         movie.rating -= 0.1;
-        // movie.rating = movie.rating + 0.1;
+        // movie.rating = movie.rating - 0.1;
     }
 
     return movie;
