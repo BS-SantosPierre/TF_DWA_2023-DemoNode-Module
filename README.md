@@ -77,7 +77,7 @@ Pour exporter des méthodes dans vos fichiers js vous devez utiliser le mot clé
 
 ### Import Module
 
-Pou importer vos méthode vous pouvez soit importer tout l'objet ou bien juste les méthode nécessaire.
+Pour importer vos méthode vous pouvez soit importer tout l'objet ou bien juste les méthode nécessaire.
 
 ```js
   // index.js
