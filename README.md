@@ -16,13 +16,13 @@
 
 ### Installer un paquet sur npm
 
-#### Installe dans les dépendance de production
+#### Installer dans les dépendance de production
 
 ```npm install nanoid```
 
 ```npm i nanoid```
 
-#### Installe le paquet dans les dépendance de dev donc non accessible en production
+#### Installer le paquet dans les dépendance de dev donc non accessible en production
 
 ```npm install --save-dev nodemon```
 
